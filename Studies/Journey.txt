@@ -1,0 +1,10 @@
+MyFirstApp -> about hello world ;
+Tutorial2 -> about input out put in console;
+Application -> variables and rules its;
+ASCIIProgram -> about ASCII Table 
+Project4 -> surrounding condition sentence 
+Tutorial5 -> surrounding condition example
+IMC -> program about BMI 
+Swapping -> it's about funny logic 
+Ternary -> condition ternary 
+ 
